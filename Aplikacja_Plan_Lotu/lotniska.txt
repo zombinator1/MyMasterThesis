@@ -1,0 +1,54 @@
+Aleksandrowice	EPBA	
+Białystok	EPBK	
+Bydgoszcz	EPBY	
+Elbląg	EPEL	
+Gdańsk im. Lecha Wałęsy	EPGD	.
+Gliwice	EPGL	
+Gotartowice	EPRG	
+Inowrocław	EPIN	
+Iwonicz	EPIW	
+Jelenia Góra	EPJG	
+Jeżów Sudecki	-	
+Katowice-Pyrzowice	EPKT	
+Katowice-Muchowiec	EPKM
+Kętrzyn	EPKE	
+Kobylnica	EPPK	
+Kraków-Balice	EPKK
+Krępa	EPSR	
+Krosno n. Wisłokiem	EPKR
+Kruszyn	EPWK	
+Legnica	EPLE
+Lisie Kąty	EPGI	
+Lubin	EPLU	
+24.
+16
+Łososina Dolna	EPNL	
+Łódź-Lublinek	EPLL	
+Masłów	EPKA	
+Michałków	EPOM
+Mielec	EPML	
+Nowy Targ	EPTN
+Olsztyn-Dajtki	EPOD	
+Piastów	EPRP	
+Piotrków Trybunalski	EPPT	
+Płock	EPPL	
+Pobiednik	EPKP	
+Polska Nowa Wieś	EPOP	
+Poznań-Ławica	EPPO	
+Przylep	EPZP	
+Radawiec	EPLR
+Rzeszów	EPRJ	
+Rzeszów-Jasionka	EPRZ	
+Strzyżewice-Leszno	EPLS	
+Suwałki	EPSU	
+Szczecin-Dąbie	EPSD
+Szczecin-Goleniów	EPSC	
+Szczytno-Szymany	EPSY	
+Świdnik	EPSW	
+Toruń	EPTO	
+Turbia	EPST	
+Warszawa-Okęcie	EPWA	
+Wrocław-Strachowice	EPWR	
+Zamość	EPZA	
+Żar	EPZR	
+Zielona Góra-Babimost	EPZG	
